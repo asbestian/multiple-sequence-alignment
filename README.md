@@ -10,6 +10,9 @@ Althaus et al.
 
 A technical report about this implementation can be found in [doc/tech\_report.pdf](doc/tech_report.pdf).
 
+The graph data structure and corresponding graph algorithms are
+realised via [LEMON](https://lemon.cs.elte.hu).
+
 Authors
 -------
 [Sebastian Schenker](https://github.com/asbestian)
